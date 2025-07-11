@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/JDqyYqu.png" alt="Chihiro no trem - Spirited Away" width="80%" style="border-radius: 12px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2plYjF5dGdhMjUzaGw4OHYzYmpzMXZteHY5bmZmYTVidWh3cWxoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" alt="Chihiro com folhas de cerejeira" width="100%"/>
 </p>
 
 <h1 align="center" style="color:#d18fbc;">🍃 Oi, eu sou a Nicole!</h1>
