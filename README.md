@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/FUTNq6P.gif" alt="Chihiro banner" width="100%"/>
+  <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="Chihiro no trem - Spirited Away" width="100%"/>
 </p>
 
 <h1 align="center">🍃 Oi, eu sou a Nicole!</h1>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌷 Projetos Recentes
+## 🌸 Projetos Recentes
 
 - 📝 [Gerenciador de Tarefas (nível básico)](https://github.com/nicoleCarvalho0/Gerenciador_de_Tarefas-Nivel_Basico)  
 - 🎮 [Jogo da Forca](https://github.com/nicoleCarvalho0/Jogo_da_Forca)
@@ -46,29 +46,4 @@
 ## 🦋 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4f8cbf?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nicolecarvalhodsantana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d44836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e55a8e?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🌀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleCarvalho0&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  🌙✨ Que seus códigos sejam tão mágicos quanto a jornada da Chihiro.  
-  Obrigada por visitar meu perfil 💖
-</p>
-
+  <a
