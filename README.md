@@ -11,7 +11,7 @@
 
 ---
 
-## 🌸 Ferramentas que me acompanham
+## 🌸 Ferramentas:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-8eabc1?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 ---
 
-## ✨ IDEs favoritas
+## ✨ IDEs 
 
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 🐾 Vamos nos conectar?
+## 🐾Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
