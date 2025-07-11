@@ -1,52 +1,41 @@
-<h1 align="center">✨ Oi, eu sou a Nicole!</h1>
+<h1 align="center">👋 Oi, eu sou a Nicole!</h1>
 
 <p align="center">
-  📚 Estudante de Sistemas de Informação <br>
-  🧠 Apaixonada por tecnologia e dados <br>
-  🎯 Focada em aprender Python, SQL e Excel <br>
-  🌱 Em constante evolução!
+  🎓 Estudante do 3º semestre de Sistemas de Informação <br>
+  📍 SENAC Santo Amaro
 </p>
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo
+## 🛠️ Ferramentas
 
-#### 💻 Linguagens & Ferramentas:
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-### 📌 Projetos em Destaque
+## 💻 IDEs
 
-- 🔐 [Gerador de Senhas](https://github.com/seu-usuario/seu-projeto)
-- ✂️ [Jogo Pedra, Papel e Tesoura](https://github.com/seu-usuario/seu-projeto)
-- 📊 [Dashboard de Dados (em breve)](https://github.com/seu-usuario)
-
----
-
-### 📖 O que estou estudando agora
-
-- 🔹 **Python:** lógica, listas, dicionários, estruturas de repetição  
-- 🔹 **SQL:** consultas, `JOIN`, filtros, agrupamentos  
-- 🔹 **Excel:** fórmulas, filtros, tabelas, dashboards  
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+</p>
 
 ---
 
-### 🌟 Sobre mim
+## 📌 Projetos
 
-> Sou curiosa, dedicada e apaixonada por tecnologia.  
-> Meu objetivo é crescer como analista de dados, compartilhando o que aprendo e ajudando outras pessoas a aprender também.  
-> Estou trilhando minha jornada com foco e amor pelo conhecimento. 💙
+- 🔐 [Gerador de Senhas](https://github.com/seu-usuario/seu-repositorio)
+- ✂️ [Jogo Pedra, Papel e Tesoura](https://github.com/seu-usuario/seu-repositorio)
+- 📊 [Dashboard de Vendas (Power BI)](https://github.com/seu-usuario/seu-repositorio)
 
 ---
 
-### 🌐 Onde me encontrar
+## 🌐 Redes
 
 <p>
   <a href="https://linkedin.com/in/seu-linkedin">
@@ -60,20 +49,5 @@
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
-</p>
-
----
-
-<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
-
-
-
-
-✨ Obrigada por visitar meu perfil!
 
