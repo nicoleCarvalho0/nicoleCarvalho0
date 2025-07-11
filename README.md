@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/p0lQYbS.gif" alt="Studio Ghibli Banner" width="100%"/>
+  <img src="https://i.imgur.com/FUTNq6P.gif" alt="Chihiro banner" width="100%"/>
 </p>
 
 <h1 align="center">🍃 Oi, eu sou a Nicole!</h1>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌼 Ferramentas que me acompanham
+## 🧚 Ferramentas que me acompanham
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-446e9b?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🍀 IDEs que uso
+## 🏡 IDEs favoritas
 
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -36,14 +36,14 @@
 
 ---
 
-## 🌸 Projetos Recentes
+## 🌷 Projetos Recentes
 
-- ✨ [Gerenciador de Tarefas (nível básico)](https://github.com/nicoleCarvalho0/Gerenciador_de_Tarefas-Nivel_Basico)  
+- 📝 [Gerenciador de Tarefas (nível básico)](https://github.com/nicoleCarvalho0/Gerenciador_de_Tarefas-Nivel_Basico)  
 - 🎮 [Jogo da Forca](https://github.com/nicoleCarvalho0/Jogo_da_Forca)
 
 ---
 
-## 🌈 Onde me encontrar
+## 🦋 Vamos nos conectar?
 
 <p align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌟 GitHub Stats
+## 🌀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleCarvalho0&layout=compact&theme=tokyonight"/>
@@ -68,5 +68,7 @@
 ---
 
 <p align="center">
-  🍃✨ Obrigada por passar aqui! Que os seus dados sejam sempre bem organizados e seus códigos limpos como a natureza do mundo Ghibli 🌿
+  🌙✨ Que seus códigos sejam tão mágicos quanto a jornada da Chihiro.  
+  Obrigada por visitar meu perfil 💖
 </p>
+
