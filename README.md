@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Nicole%20Carvalho&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+</p>
+
 <h1 align="center">👋 Oi, eu sou a Nicole!</h1>
 
 <p align="center">
@@ -16,8 +20,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- Git opcional -->
+  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> -->
 </p>
 
 ---
@@ -38,7 +42,7 @@
 
 <p align="left">
 
-- ✅ [Gerenciador de Tarefas (Nível Básico)](https://github.com/nicoleCarvalho0/Gerenciador_de_Tarefas-Nivel_Basico)
+- ✅ [Gerenciador de Tarefas (Nível Básico)](https://github.com/nicoleCarvalho0/Gerenciador_de_Tarefas-Nivel_Basico)  
 - 🎯 [Jogo da Forca](https://github.com/nicoleCarvalho0/Jogo_da_Forca)
 
 </p>
@@ -70,7 +74,7 @@
 ---
 
 <p align="center">
-  ✨ Obrigada por visitar meu perfil! Me chama pra trocar ideia sobre tecnologia ou só dar um oi! 😄
+  ✨ Obrigada por visitar meu perfil! Vamos nos conectar! 😄
 </p>
 
 
