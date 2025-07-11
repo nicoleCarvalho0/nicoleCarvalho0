@@ -48,10 +48,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://www.instagram.com/seu-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+   </a>
+   <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e55a8e?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>  
   <a href="https://github.com/nicoleCarvalho0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-f0d9e7?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
