@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/7T9YjPa.jpeg" alt="Chihiro no trem" width="100%"/>
+  <img src="https://i.imgur.com/5K8d0mU.jpeg" alt="Chihiro entre folhas" width="100%"/>
 </p>
 
 <h1 align="center" style="color:#d18fbc;">🍃 Oi, eu sou a Nicole!</h1>
