@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Bmc2NwOTZvbG8wbW15MnRlNHY3c24xNHI3cDdvaGQ4ZzdsMTl2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ovWn8N8TVg8hi/giphy.gif" alt="Chihiro estética suave" width="100%"/>
-</p>
+
 
 <h1 align="center" style="color:#d18fbc;">🍃 Oi, eu sou a Nicole!</h1>
 
