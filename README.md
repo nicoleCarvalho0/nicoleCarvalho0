@@ -29,5 +29,33 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-8ab6d6?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-9a
+  <img src="https://img.shields.io/badge/PyCharm-9ab8cb?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-8eabc1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-b7c8da?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
+---
+
+## 🍥 Projetos Recentes
+
+- 📝 [Gerenciador de Tarefas (nível básico)](https://github.com/nicoleCarvalho0/Gerenciador_de_Tarefas-Nivel_Basico)  
+- 🎮 [Jogo da Forca](https://github.com/nicoleCarvalho0/Jogo_da_Forca)
+
+---
+
+## 🐾 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/nicoleCarvalho0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-f0d9e7?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center" style="color:#cfa2b8;">
+  🌸 "De vez em quando, precisamos parar e observar a delicadeza do vento entre as flores." — Spirited Away
+</p>
